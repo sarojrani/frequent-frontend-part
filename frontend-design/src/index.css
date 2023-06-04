@@ -1,0 +1,38 @@
+
+
+.container{
+    border:solid 1px black;
+    width: 500px;
+    padding: 30px;
+    margin: 5px;
+}
+.form{
+    font-size: xx-large;
+    justify-self: center;
+    align-self: center;
+    padding: 3px;
+    color: blueviolet;
+}
+
+.formContainer{
+    width: 600px;
+    
+}
+.formContainer>label{
+    font-size: larger;
+    padding: 10px;
+}
+
+.product-list{
+    text-align: center;
+    margin-top: 50px;
+  }
+  .product-list ul li{
+    display: inline-block;
+    border: 1px solid skyblue;
+    padding:2px;
+    width:100px
+  }
+  .product-list ul{
+    margin: 0;
+  }
